@@ -1,0 +1,31 @@
+{
+    "product_name": "emodium",
+    "product_price": "2000",
+    "product_description": "Muscular relaxer",
+    "percentage_off": "20",
+    "product_quantity": "30",
+    "brand_id": "3013",
+    "med_rack_id":"4002",
+    "medical_id": [{
+       "medical_id":"5005" 
+    },{
+        "medical_id":"5020"
+    }
+    ],
+    "similar_products": [{
+       "similar_product":"7004" 
+    }
+    ],
+    "side_effects":"this",
+    "rrp":"200",
+     "warning":"donot use at home",
+    "ingredients":"sugar",
+    "direction":"in this direction",
+    "preferences": [{
+        "preference_id": "8002",
+        "preference"  : true
+    },{
+        "preference_id": "8003",
+        "preference"  : false
+    }]
+}

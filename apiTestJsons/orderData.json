@@ -1,0 +1,29 @@
+{"user_id":"3333",
+"cart":[
+	{"_id":"7273",
+	"_name":"Panadol Extra",
+	"_price":150,
+	"_quantity":1,
+	"_questionnaire":"false"
+},{"_id":"7277",
+"_name":"Disprin",
+"_price":20,
+"_quantity":1,
+"_questionnaire":"true",
+"questionsObj":{
+	"medicine_flag":"true",
+	"age":"34",
+	"symptom":"aa",
+	"health_condition_flag":"true",
+	"health_condition":"adf",
+	"medication_flag":"true",
+	"medication":"adsf",
+	"product_id":"7277",
+	"user_id":""
+},
+	"questionnaireEditFlag":true
+}
+],"delivery":{
+	"id":"2011","price":"0"
+}
+}

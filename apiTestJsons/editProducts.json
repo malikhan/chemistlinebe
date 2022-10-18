@@ -1,0 +1,26 @@
+{
+    "product_id":"7214",
+    "rrp":"10",
+    "product_name": "emodiu",
+    "product_price": "200",
+    "product_description": "losse motion control",
+    "percentage_off": "20",
+    "quality_max": "30",
+    "brand_id": "3013",
+    "med_rack_id":"4003",
+    "medical_id":[{
+       "medical_id":"5013" 
+    },{
+        "medical_id":"5010"
+    },{
+        "medical_id":"5020"
+    }],
+     "side_effects":"this",
+     "warning":"donot use at home",
+    "ingredients":"sugar",
+    "direction":"in this direction",
+    "preferences": [{
+        "preference_id": "8003",
+        "preference"  : true
+    }]
+}
